@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1922,
+      "sha256": "955d8295fadffb237e4f5b80a53f3f6d5798b20cacbc370b19e9eb0b8d42f51b"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 310522,
+      "sha256": "5c80a731306bb3e11715d130383a2a2f5156d96305ce69cac9f18811b5a90cd1"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2578783,
+      "sha256": "7831b700f56b222668d9e0893ea74d1a899777de45c7c2e2f894e4379fa46cee"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 294,
+      "sha256": "2aa37608603399b7899ee343aec27db3a0a96b576f9910df6fb4765024c481cf"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "40977090cc06b90353373f5d34583b39f86dc70f9922184ac9234a636a7cc4fb"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 349668,
+      "sha256": "10b6f0d95687564b61fd52bf6cd79152a9b199c337b6379d6f655fad228eb0cf"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 741,
+      "sha256": "ef1720bb38b1dec5a2b8f4646090461bf61e05ebef7bbd3c873f7997ec9311c1"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 741,
+      "sha256": "ef1720bb38b1dec5a2b8f4646090461bf61e05ebef7bbd3c873f7997ec9311c1"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1828,
+      "sha256": "12210cf9b67623b0876dee844c2a27b630aa3d9877ec94c2382030efa37acf64"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 24726,
+      "sha256": "d5908537e14687cf4c5482166bf925d9616aaddbdbc9fe58f714c56f3a303721"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99093,
+      "sha256": "c5d74cef1ef5d8d46ca922346baf7082d851c6b3407185c247fede97a97af4fe"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2474,
+      "sha256": "d61ab19c303fec69474eb79aeac0a1eb5b194f1a59e48f1942f6baa68f548c92"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "cfac81c31a630fdb7ce6479511bdd8fedb0f84641de3eb5c55f00d02fcc1ddc0"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1181,
+      "sha256": "5103af4da0f1be3bc3d09b1c34ce8a71494d4691c9ec43850473485bf2baa6d0"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 381,
+      "sha256": "fa87eb05dfeced093afc02bb9d683560e58fac193827747c56e7e5f282e9b1c7"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "86d610c2b8e91885fad4a3f4345a787915cf90b4c286d32fd867b6bc33a522c0"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z4601-melody-01.mid",
+      "bytes": 166,
+      "sha256": "cc8026c04c4ff913bd820fa987708e7f46381b2f73a3aad8ac6ec54fbbef3923"
+    },
+    {
+      "path": "clips/z4601-melody-02.mid",
+      "bytes": 166,
+      "sha256": "dd8d70b75f21e61c37fbadcff06f1f3c351e49665afa723ff3ad26692d9a67e5"
+    },
+    {
+      "path": "clips/z4601-melody-03.mid",
+      "bytes": 123,
+      "sha256": "bdaaf6939639d875c6cec94c683b708d815f60e5fbe559d38c6a3f53ce97e426"
+    },
+    {
+      "path": "clips/z4601-melody-04.mid",
+      "bytes": 123,
+      "sha256": "86c61049022318990582fdb11d272e22bfeb492357f0b25bd421c4889fde378a"
+    },
+    {
+      "path": "clips/z4602-melody-01.mid",
+      "bytes": 165,
+      "sha256": "8190480f5cf52aa8f61bf2d8fd5b38a5d533198595f7b652b7e51fdcbbeb7cf4"
+    },
+    {
+      "path": "clips/z4602-melody-02.mid",
+      "bytes": 165,
+      "sha256": "00e39470eff497bb9070f2f6f5124181f6f6db31f0efbc8e9ed713e3a5399bd2"
+    },
+    {
+      "path": "clips/z4602-melody-03.mid",
+      "bytes": 123,
+      "sha256": "31ec86984662715e2edf5e21979c1280ea5f0fdf8ad8972844d8c8e21fb00073"
+    },
+    {
+      "path": "clips/z4602-melody-04.mid",
+      "bytes": 123,
+      "sha256": "06249763f8efb927bd860bf4f547017f6ccb5bf35ecf5d404db6024c3322ebfa"
+    },
+    {
+      "path": "clips/z4603-melody-01.mid",
+      "bytes": 166,
+      "sha256": "43b793438acc830227a4ddc124b27a53cb1ece91b3dee339fd3ace4c579ba460"
+    },
+    {
+      "path": "clips/z4603-melody-02.mid",
+      "bytes": 166,
+      "sha256": "123c5596788a7fd7d1a34cf079ef2e37ec8209d309e81c43ee6bb24aa8705bc8"
+    },
+    {
+      "path": "clips/z4603-melody-03.mid",
+      "bytes": 106,
+      "sha256": "fc00a92d7184935bf35b53311b6080cd632f1c5660b4052b5b0f20c91dddbf31"
+    },
+    {
+      "path": "clips/z4603-melody-04.mid",
+      "bytes": 106,
+      "sha256": "4d6d0b7c0c16516d3651ba5bd48635c788d31a526f45dd5999f46bf1eed6cb5b"
+    },
+    {
+      "path": "clips/z4604-melody-01.mid",
+      "bytes": 166,
+      "sha256": "0ec9389ea7a2243b4f763ac455fef3f3a0cb3450111e6c69884544abc969bc9a"
+    },
+    {
+      "path": "clips/z4604-melody-02.mid",
+      "bytes": 166,
+      "sha256": "415d73ed5ec45b5542381b7fc4c24c99a124addcdf5d115a623b9cce89a6e76a"
+    },
+    {
+      "path": "clips/z4604-melody-03.mid",
+      "bytes": 105,
+      "sha256": "10cf8be891bfe3bce0a84670785b5a0ba3b440a5f0e2a1f9d1fd64d769d48090"
+    },
+    {
+      "path": "clips/z4604-melody-04.mid",
+      "bytes": 105,
+      "sha256": "d6add35f422ce0bdaf9a45f6c85fd1ba0890c48fb7ac16fe1dd9c953c0266e9a"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 427,
+      "sha256": "7a1d8bba9a75192a89e2aac43f2a6a8b57e9fc1ef547e4210a04633336f4301f"
+    },
+    {
+      "path": "downloads/jazz-rap-piano-motifs-midi.zip",
+      "bytes": 31315,
+      "sha256": "4d4c21c62e8f0fb4e73c5af32f1915a6ae2403274497c528bd3efa290a7763ab"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2499,
+      "sha256": "8b9233627a60ea9ea9d3159cb50de858b3f972adb691b118cf031281f4cd0f3f"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 33437,
+      "sha256": "83725641f1fc90a40463514498968d18ed2070c48912e5fafc0ee662652b47f7"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 279650,
+      "sha256": "e6426354d2cfe1d147a8a319cc8453954098f53346ea83f34dfce1eb04f4d1be"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 982690,
+      "sha256": "23311d2e4503cb778b95c87c574bdc7f5222c5a2fa48358707b827c9aaa0774a"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1217,
+      "sha256": "deae383f5a0fc30fe028130b311eddc84c4764d9df105d798bffff1f1d754875"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9946,
+      "sha256": "10ff26d0e5d0ccfa8e565cfc4e1ba0fffda719413b145ee9397e3bc7e0643292"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e49cf1fa370167d695323e0c645fed7a7134dd36806950bea295793362a137df"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c5606c9e653c814d3932f4a89e64aaf824d6e9aa337dbccfb33c56532692cd9d"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "32204d4dec8d9dd4bf7a31693a89065cdbcd586dab3c26fa5bdf97d6694716a0"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "dbc09d3fc745206663438668cc5ee17afc6b969cf0ef6c16ed89fc7a64d4c0aa"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "63a62efef340da6236a096bea84ab02fa6d0d0e005611c8f94c502d6e82845b5"
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/z4601-jazz-rap-piano-motifs-opening-combined.mid",
+      "bytes": 5662,
+      "sha256": "355159d2d81ba4538c316740e505637378b18b3b11b74d9e46136377772a4826"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "cef881ae12b9029ed97478a87cfc7bf5896f54a0e31800e2734d1b0d49a7ee0e"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d1002eb602321bf4e6be44c8f3eb4f253fa6ff186cdaa4eee3e4fd630ec1c5aa"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "3d7352df15aaa4fa42239cd5a6806be7638d6bc4d1f7435f2696f66e34f5cf17"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "5d59f1e8971694662aa9909ce0ff394d46ea480b16e3ca582ad42a1caac255e0"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9da757276c133a33205c8b3be8cb0dec90328b8d664810ec04226c72a29dd6cf"
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/z4602-jazz-rap-piano-motifs-variation-combined.mid",
+      "bytes": 5661,
+      "sha256": "7ca1c3d006357af40bb2b77f250cc7150e3c0b7a3d4c8bfdfeb2e33fae4ab1bb"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "484ce5c33962c726012c024cf29f26f8dd8dec9b4495eb926156311a08efea86"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "14ee78dbacf86e5d4fd560965873591d2f8e47165fb0823afeb2d441ae1817b5"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "91962d68e0bfb3535f135c901fc4cf1e9aa36ba199de91727640ccb9557eebea"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "23a6e8fe179c8e86a7ce520d6433191b5ec84b5e16a80f115496198e3d45018f"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0ab777f4816714f9994a35b7b63d54462040b13802f4424e995d8e18db927797"
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/z4603-jazz-rap-piano-motifs-contrast-combined.mid",
+      "bytes": 5627,
+      "sha256": "294dcd9abc15c36311b1f67b73b57adafc81ef30253d00ae2fa726b2eb163e76"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b7e78de592e2e8a01a9dedd3dd99eb947f2f711135d2ea97b7e47340d24dd5d0"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "71c7ac944e42875a352111c30296b4657c95ba954bbc9460e304d55c33e396bc"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "951561792530739e01cc181ea63d17ef4142f3ef768199e0dd12d1e6f2c934a5"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "313dbda69257d8c1c0cb33a1f414fddeda2c60115eed68a16d4d915f7c4343dd"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "744cefa96a9653cd056043436dc053dd7c88edb3df151353f863bac2a878432c"
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/z4604-jazz-rap-piano-motifs-return-combined.mid",
+      "bytes": 5627,
+      "sha256": "801b8b28b8777b320fe2bfa742de76845cf9131e271576a5393933d6e41bae5a"
+    },
+    {
+      "path": "preview/jazz-rap-piano-motifs-simple-synth-preview.mp3",
+      "bytes": 2108439,
+      "sha256": "4edd289e51e22f4b9ce59f77450b244b78cf3f941d8f6a2b49d66ace46ece2e1"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1173,
+      "sha256": "0b329a1142699909116e3dd482737db93f1662d0c9e2f572273d20f2966c90fe"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3958,
+      "sha256": "b1395298f88eeffa0f4a1871ddfca74813914d3cb499a864303815f022c75a33"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 223,
+      "sha256": "45fcbd0710a29dd81d7c0e1a4641e74f8195275da079a8fd749cee14ea19cce9"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 343614,
+      "sha256": "be1d7a58af095971a59458a191395575f0c9e42670b34e97e2e86dd86c5672e1"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 317950,
+      "sha256": "4dea9b27b8813c0e3168d14bf56c2de627bbfa74c5cc0cff510a48ef9ae6f056"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 281016,
+      "sha256": "e28cc862344896bcddf971b0a44573d5b59f6b12fe09159a55d6db5c7dd86c66"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 185,
+      "sha256": "3eb7371608c1030cdbfffb60fb314a6da8dee1462fee329f5c71f6e0c6eb3874"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "f978b436bbbc026361340ea9e8436cdb55baf888d011ea996f0892f154f14c46"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

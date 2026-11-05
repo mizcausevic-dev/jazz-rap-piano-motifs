@@ -1,0 +1,26 @@
+{
+  "title": "Jazz Rap Piano Motifs",
+  "study": "z4601",
+  "bpm": 88,
+  "source_audio": "preview/jazz-rap-piano-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "4edd289e51e22f4b9ce59f77450b244b78cf3f941d8f6a2b49d66ace46ece2e1",
+  "source_midi": "midi/z4601-jazz-rap-piano-motifs-opening/z4601-jazz-rap-piano-motifs-opening-combined.mid",
+  "source_midi_sha256": "355159d2d81ba4538c316740e505637378b18b3b11b74d9e46136377772a4826",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c5d74cef1ef5d8d46ca922346baf7082d851c6b3407185c247fede97a97af4fe",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5c80a731306bb3e11715d130383a2a2f5156d96305ce69cac9f18811b5a90cd1",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "23311d2e4503cb778b95c87c574bdc7f5222c5a2fa48358707b827c9aaa0774a",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

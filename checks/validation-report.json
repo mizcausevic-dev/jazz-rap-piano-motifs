@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:20.965868+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e49cf1fa370167d695323e0c645fed7a7134dd36806950bea295793362a137df",
+      "errors": []
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c5606c9e653c814d3932f4a89e64aaf824d6e9aa337dbccfb33c56532692cd9d",
+      "errors": []
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "32204d4dec8d9dd4bf7a31693a89065cdbcd586dab3c26fa5bdf97d6694716a0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "dbc09d3fc745206663438668cc5ee17afc6b969cf0ef6c16ed89fc7a64d4c0aa",
+      "errors": []
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "63a62efef340da6236a096bea84ab02fa6d0d0e005611c8f94c502d6e82845b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4601-jazz-rap-piano-motifs-opening/z4601-jazz-rap-piano-motifs-opening-combined.mid",
+      "bytes": 5662,
+      "sha256": "355159d2d81ba4538c316740e505637378b18b3b11b74d9e46136377772a4826",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "cef881ae12b9029ed97478a87cfc7bf5896f54a0e31800e2734d1b0d49a7ee0e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d1002eb602321bf4e6be44c8f3eb4f253fa6ff186cdaa4eee3e4fd630ec1c5aa",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "3d7352df15aaa4fa42239cd5a6806be7638d6bc4d1f7435f2696f66e34f5cf17",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "5d59f1e8971694662aa9909ce0ff394d46ea480b16e3ca582ad42a1caac255e0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9da757276c133a33205c8b3be8cb0dec90328b8d664810ec04226c72a29dd6cf",
+      "errors": []
+    },
+    {
+      "path": "midi/z4602-jazz-rap-piano-motifs-variation/z4602-jazz-rap-piano-motifs-variation-combined.mid",
+      "bytes": 5661,
+      "sha256": "7ca1c3d006357af40bb2b77f250cc7150e3c0b7a3d4c8bfdfeb2e33fae4ab1bb",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "484ce5c33962c726012c024cf29f26f8dd8dec9b4495eb926156311a08efea86",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "14ee78dbacf86e5d4fd560965873591d2f8e47165fb0823afeb2d441ae1817b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "91962d68e0bfb3535f135c901fc4cf1e9aa36ba199de91727640ccb9557eebea",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "23a6e8fe179c8e86a7ce520d6433191b5ec84b5e16a80f115496198e3d45018f",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0ab777f4816714f9994a35b7b63d54462040b13802f4424e995d8e18db927797",
+      "errors": []
+    },
+    {
+      "path": "midi/z4603-jazz-rap-piano-motifs-contrast/z4603-jazz-rap-piano-motifs-contrast-combined.mid",
+      "bytes": 5627,
+      "sha256": "294dcd9abc15c36311b1f67b73b57adafc81ef30253d00ae2fa726b2eb163e76",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "b7e78de592e2e8a01a9dedd3dd99eb947f2f711135d2ea97b7e47340d24dd5d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "71c7ac944e42875a352111c30296b4657c95ba954bbc9460e304d55c33e396bc",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/drums.mid",
+      "bytes": 2641,
+      "sha256": "eca5b07b30596c48a60ed1030e97cce8a8fe649189a29561e69e914a89f714f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "951561792530739e01cc181ea63d17ef4142f3ef768199e0dd12d1e6f2c934a5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/sub_bass.mid",
+      "bytes": 790,
+      "sha256": "313dbda69257d8c1c0cb33a1f414fddeda2c60115eed68a16d4d915f7c4343dd",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "744cefa96a9653cd056043436dc053dd7c88edb3df151353f863bac2a878432c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4604-jazz-rap-piano-motifs-return/z4604-jazz-rap-piano-motifs-return-combined.mid",
+      "bytes": 5627,
+      "sha256": "801b8b28b8777b320fe2bfa742de76845cf9131e271576a5393933d6e41bae5a",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/jazz-rap-piano-motifs-simple-synth-preview.mp3",
+  "preview_sha256": "4edd289e51e22f4b9ce59f77450b244b78cf3f941d8f6a2b49d66ace46ece2e1",
+  "source_midi_path": "midi/z4601-jazz-rap-piano-motifs-opening/z4601-jazz-rap-piano-motifs-opening-combined.mid",
+  "source_midi_sha256": "355159d2d81ba4538c316740e505637378b18b3b11b74d9e46136377772a4826",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z4601",
+    "start_seconds": 0,
+    "end_seconds": 87.273
+  },
+  "measurement": {
+    "sample_peak": 0.114795,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
