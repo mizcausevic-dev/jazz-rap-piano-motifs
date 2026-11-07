@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/jazz-rap-piano-motifs-midi.zip",
-      "bytes": 31315,
-      "sha256": "4d4c21c62e8f0fb4e73c5af32f1915a6ae2403274497c528bd3efa290a7763ab"
+      "bytes": 32302,
+      "sha256": "e92a96c3de607838abf31cb121b7097e775973eccc1b5d86d5143a73599d4c90"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9946,
-      "sha256": "10ff26d0e5d0ccfa8e565cfc4e1ba0fffda719413b145ee9397e3bc7e0643292"
+      "bytes": 10136,
+      "sha256": "d18db17cf5a26e55d58d5523532554949d20600553c24380f9a611e6f12dec65"
     },
     {
       "path": "midi/z4601-jazz-rap-piano-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "801b8b28b8777b320fe2bfa742de76845cf9131e271576a5393933d6e41bae5a"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/jazz-rap-piano-motifs-simple-synth-preview.mp3",
       "bytes": 2108439,
       "sha256": "4edd289e51e22f4b9ce59f77450b244b78cf3f941d8f6a2b49d66ace46ece2e1"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3964,
-      "sha256": "2313721d5c4e76dd426928388cf4d2ec9b8c54cdc86f476bd9f6a0433be56a16"
+      "bytes": 4079,
+      "sha256": "e9469008d3fef63fcaf2e95ed3a268a530249287e47f3072c9a14cc65f362a3d"
     },
     {
       "path": "social/instagram/caption.txt",
